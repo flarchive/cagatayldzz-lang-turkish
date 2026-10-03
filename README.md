@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of cagatayldzz/lang-turkish.** Not for installation: use [Packagist](https://packagist.org/packages/cagatayldzz/lang-turkish) or the [upstream repository](https://github.com/cagatayldzz/lang-turkish).
 
-**0** versions archived · Latest: [`v0.1.0-beta.14`](https://github.com/flarchive/cagatayldzz-lang-turkish/tree/archive/v0.1.0-beta.14) · License: `MIT` · Flarum: `^0.1.0-beta.14`
+**8** versions archived · Latest: [`v0.1.0-beta.14`](https://github.com/flarchive/cagatayldzz-lang-turkish/tree/archive/v0.1.0-beta.14) · License: `MIT` · Flarum: `^0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.10` | 2019-09-20 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/cagatayldzz-lang-turkish/tree/archive/v0.1.0-beta.10) |
+| `v0.1.0-beta.11` | 2019-12-24 | `^0.1.0-beta.11` | [Browse](https://github.com/flarchive/cagatayldzz-lang-turkish/tree/archive/v0.1.0-beta.11) |
+| `v0.1.0-beta.12` | 2020-03-15 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/cagatayldzz-lang-turkish/tree/archive/v0.1.0-beta.12) |
+| `v0.1.0-beta.13` | 2020-05-04 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/cagatayldzz-lang-turkish/tree/archive/v0.1.0-beta.13) |
+| `v0.1.0-beta.14` | 2020-10-21 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/cagatayldzz-lang-turkish/tree/archive/v0.1.0-beta.14) |
+| `v0.1.0-beta.8` | 2018-12-16 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/cagatayldzz-lang-turkish/tree/archive/v0.1.0-beta.8) |
+| `v0.1.0-beta.8.1` | 2018-12-16 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/cagatayldzz-lang-turkish/tree/archive/v0.1.0-beta.8.1) |
+| `v0.1.0-beta.9` | 2019-06-27 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/cagatayldzz-lang-turkish/tree/archive/v0.1.0-beta.9) |
 
 Catalog entry: [packages/cagatayldzz-lang-turkish.json](https://github.com/flarchive/archive-index/blob/main/packages/cagatayldzz-lang-turkish.json)
 
